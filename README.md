@@ -6,11 +6,6 @@
 ## Usage
 
 ```rust
-```
-
-## Usage
-
-```rust
 mod ring_buffer;
 
 use ring_buffer::lock_free_ring_buffer::RingBuffer;
